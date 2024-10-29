@@ -5,8 +5,8 @@ Los visigodos fueron distintos pueblos bárbaros que, sin encontrar oposición, 
 ## Índice
 
 <br>[1. Época ](https://github.com/HoracioGG/Visigodos/blob/main/Epoca.md)</br>
-<br>[2. Arquitectura]()</br>
-<br>[3.Obras más significativas]()</br>
+<br>[2. Arquitectura](https://github.com/HoracioGG/Visigodos/blob/main/Arquitectura.md)</br>
+<br>[3.Obras más significativas](https://github.com/HoracioGG/Visigodos/blob/main/Obras.md)</br>
 
 ## Referencia
 
